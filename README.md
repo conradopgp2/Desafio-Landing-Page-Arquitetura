@@ -1,4 +1,4 @@
-Link do site disponibilizado: https://desafio-landing-page-arquitetura-dnc.netlify.app
+Link do site disponibilizado: https://desafio-landing-page-arquitetura-dnc.netlify.app/
 
 Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1XM5NkKl-AWFK96BX0I2YH3X25IexT8sMuPlEljJPYo4/edit#gid=0
 
